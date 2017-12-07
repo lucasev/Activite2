@@ -1,1 +1,3 @@
-Voici le premier fichier
+Voici le premier fichier.
+
+Ces quelques lignes sont les modifications apportées à ce premier fichier.
